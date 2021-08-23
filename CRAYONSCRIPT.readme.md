@@ -1,0 +1,3 @@
+# Running
+
+run server.bat
